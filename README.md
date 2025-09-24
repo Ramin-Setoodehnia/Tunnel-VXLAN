@@ -25,7 +25,7 @@
 ## 📦 Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Ramin-Setoodehnia/VXLAN-Tunnel/master/main.sh)
+bash <(curl -s https://raw.githubusercontent.com/Ramin-Setoodehnia/Tunnel-VXLAN/main/Main.sh)
 ```
 
 ## Languages
